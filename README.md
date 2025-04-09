@@ -27,3 +27,4 @@ country_code = "US"  # Replace with country code (e.g., US, GB, DE, FR)
 year = 2025  # Replace with desired year
 display_holidays(country_code, year)
 fire
+рнгз
